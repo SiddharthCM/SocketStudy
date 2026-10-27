@@ -1,5 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
 
+## Date: 27-10-26
+Developed by: Siddharth CM(212225040413)
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -53,6 +56,14 @@ Socket programming finds applications in various domains, including web developm
 4.	Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
+## OUTPUT
+
+Client:
+
+<img width="747" height="138" alt="image" src="https://github.com/user-attachments/assets/08dc3eb7-81c7-4023-b142-7fe81d2dc0b1" />
+
+Server:
+<img width="874" height="137" alt="image" src="https://github.com/user-attachments/assets/dcfd43fa-f554-4efa-a77e-3d52c75edb9a" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
